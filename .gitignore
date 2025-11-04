@@ -1,0 +1,34 @@
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE / Editor settings
+.idea/
+.vscode/
+*.iml
+
+# macOS / Windows system files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Jupyter notebooks checkpoints (if any)
+.ipynb_checkpoints/
+
+# Generated images or plots
+plot_visualization.png
+
+# Environment variables files
+.env
+.env.*
